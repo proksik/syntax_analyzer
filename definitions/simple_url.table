@@ -1,0 +1,71 @@
+\textbf{} & \textbf{h} & \textbf{f} & \textbf{t} & \textbf{m} & \textbf{.} & \textbf{?} & \textbf{/} & \textbf{:} & \textbf{@} & \textbf{d} & \textbf{l} & \textbf{+} & \textbf{\$} \bigstrut\\
+    \hline
+\textbf{A} & 1 & 2 & 3 & 4 &   &   &   &   &   &   &   &   &  \bigstrut\\
+    \hline
+\textbf{B} & 5 &   &   &   &   &   &   &   &   &   &   &   &  \bigstrut\\
+    \hline
+\textbf{B'} &   &   &   &   &   & 8 & 7 &   &   &   &   &   & 6 \bigstrut\\
+    \hline
+\textbf{B''} &   &   &   &   &   & 10 &   &   &   &   &   &   & 9 \bigstrut\\
+    \hline
+\textbf{C} &   & 11 &   &   &   &   &   &   &   &   &   &   &  \bigstrut\\
+    \hline
+\textbf{D} &   &   & 12 &   &   &   &   &   &   &   &   &   &  \bigstrut\\
+    \hline
+\textbf{E} &   &   &   & 13 &   &   &   &   &   &   &   &   &  \bigstrut\\
+    \hline
+\textbf{F} &   &   &   &   &   &   &   &   &   & 14 & 15 &   &  \bigstrut\\
+    \hline
+\textbf{F'} &   &   &   &   &   &   &   & 17 & 16 &   &   &   &  \bigstrut\\
+    \hline
+\textbf{F''} &   &   &   &   & 57 &   & 18 & 19 & 58 & 60 & 59 &   & 18 \bigstrut\\
+    \hline
+\textbf{F'''} &   &   &   &   & 63 &   & 61 & 62 & 64 & 65 & 65 &   & 61 \bigstrut\\
+    \hline
+\textbf{F''''} &   &   &   &   &   &   &   &   &   & 66 & 67 &   &  \bigstrut\\
+    \hline
+\textbf{F'''''} &   &   &   &   &   &   & 68 &   & 69 & 71 & 70 &   & 68 \bigstrut\\
+    \hline
+\textbf{F''''''} &   &   &   &   &   &   &   &   & 72 & 74 & 73 &   &  \bigstrut\\
+    \hline
+\textbf{G} &   &   &   &   &   &   &   &   &   & 20 & 20 &   &  \bigstrut\\
+    \hline
+\textbf{G'} &   &   &   &   &   & 21 & 21 & 22 &   &   &   &   & 21 \bigstrut\\
+    \hline
+\textbf{H} &   &   &   &   &   &   &   &   &   & 23 & 23 &   &  \bigstrut\\
+    \hline
+\textbf{H'} &   &   &   &   & 25 & 24 & 24 & 24 &   &   &   &   & 24 \bigstrut\\
+    \hline
+\textbf{I} &   &   &   &   &   &   &   &   &   & 26 &   &   &  \bigstrut\\
+    \hline
+\textbf{J} &   &   &   &   &   & 81 & 82 &   &   & 84 & 83 &   & 81 \bigstrut\\
+    \hline
+\textbf{J'} &   &   &   &   &   & 28 & 29 &   &   &   &   &   & 28 \bigstrut\\
+    \hline
+\textbf{K} &   &   &   &   &   &   &   &   &   & 30 & 30 &   &  \bigstrut\\
+    \hline
+\textbf{K'} &   &   &   &   &   &   &   &   &   &   &   & 32 & 31 \bigstrut\\
+    \hline
+\textbf{L} &   &   &   &   &   &   &   &   &   & 33 & 34 &   &  \bigstrut\\
+    \hline
+\textbf{L'} &   &   &   &   &   &   &   & 35 & 35 & 36 & 36 &   &  \bigstrut\\
+    \hline
+\textbf{M} &   &   &   &   &   &   &   &   &   & 37 & 38 &   &  \bigstrut\\
+    \hline
+\textbf{M'} &   &   &   &   &   &   &   &   & 39 & 41 & 40 &   &  \bigstrut\\
+    \hline
+\textbf{N} &   &   &   &   & 42 & 42 & 42 & 42 & 42 & 44 & 43 & 42 & 42 \bigstrut\\
+    \hline
+\textbf{O} &   &   &   &   &   &   &   &   &   & 45 & 46 &   &  \bigstrut\\
+    \hline
+\textbf{O'} &   &   &   &   & 47 & 47 & 47 & 47 & 47 & 49 & 48 & 47 & 47 \bigstrut\\
+    \hline
+\textbf{P} &   &   &   &   &   &   &   &   &   & 51 & 50 &   &  \bigstrut\\
+    \hline
+\textbf{Q} &   &   &   &   &   &   &   &   &   & 52 &   &   &  \bigstrut\\
+    \hline
+\textbf{Q'} &   &   &   &   &   & 54 & 54 &   &   & 53 &   &   & 54 \bigstrut\\
+    \hline
+\textbf{R} &   &   &   &   &   &   &   &   &   &   & 55 &   &  \bigstrut\\
+    \hline
+\textbf{S} &   &   &   &   &   &   &   &   &   & 56 &   &   &  \bigstrut\\

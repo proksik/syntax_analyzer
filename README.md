@@ -1,5 +1,5 @@
-syntax_analyzer
-==============
+Syntax Analyzer
+===============
 
 Parsing rules and table from tex
 ----------------
@@ -21,3 +21,5 @@ SimpleUrl analyzer
 simple_url_analyzer = SimpleUrlAnalyzer.new(mode: 'normal') # mode: normal, details, debug
 simple_url_analyzer.analyze_file(File.expand_path('examples/simple_url.in', File.dirname(__FILE__)))
 simple_url_analyzer.analyze_text('http://naseobce.sk')
+
+
